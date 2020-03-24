@@ -28,4 +28,4 @@
   * find et delete sur la collection Commandes
   * upload sur la collection Upload
   * Dans users-permissions :
-    ** connect sur la collection Auth
+    * connect sur la collection Auth
