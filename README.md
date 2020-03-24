@@ -12,3 +12,11 @@
   * prenom
   * adresse
   * telephone
+* Plats : contient les différents plats, les champs oblogatoires au moment de la création sont :
+  * nom
+  * prix
+  * description
+* Commandes : contient les commandes effectuées par les utilisateurs, voici ses champs :
+  * Users
+  * Plats
+  
