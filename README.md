@@ -40,6 +40,6 @@
     * findone, me et update sur la collectin User
     
 * Public : qui correspond aux accès public.  Autoriser ces actions :
-  * find sur la collection Menus
+  * find sur les collections Menus et Plats
   * Dans users-permissions :
     * connect et register sur la collection Auth
