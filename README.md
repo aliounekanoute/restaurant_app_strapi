@@ -28,7 +28,7 @@
   * find et delete sur la collection Commandes
   * upload sur la collection Upload
   * Dans users-permissions :
-    * connect sur la collection Auth
+    * callback, connect sur la collection Auth
     * findone, me et update sur la collectin User
     
 * Authenticated : qui correspond aux utilisateurs simples, tout compte créé y ajouté par défaut. Autoriser ces actions :
@@ -36,7 +36,7 @@
   * create, delete, find, findone et update sur les collections Commandes
   * upload sur la collection Upload
   * Dans users-permissions :
-    * connect et register sur la collection Auth
+    * callback, connect et register sur la collection Auth
     * findone, me et update sur la collectin User
     
 * Public : qui correspond aux accès public.  Autoriser ces actions :
