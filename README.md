@@ -1,6 +1,8 @@
 # Strapi application
 
-## Auteur : Alioune Harouna Kanoute. Classe : Master 2 GLSI
+## Auteur : Alioune Harouna Kanoute. 
+
+## Classe : Master 2 GLSI
 
 ## API que va consommer l'appilication restaurant_app_ionic
 
