@@ -25,7 +25,7 @@
 
 ### Les roles
 
-* Admin(<h3>à ajouter au niveau de "Roles et permissions dans strapi" </h3>) : qui correspond au role de l'administrateur, y ajouté les comptes utlisateurs correspondants. Autoriser ces actions :
+* Admin(<h3>à ajouter au niveau de "Roles & Permissions" dans strapi </h3>) : qui correspond au role de l'administrateur, y ajouté les comptes utlisateurs correspondants. Autoriser ces actions :
   * create, delete, find, findone et update sur les collections Menus et Plats
   * find et delete sur la collection Commandes
   * upload sur la collection Upload
