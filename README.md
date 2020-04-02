@@ -45,3 +45,13 @@
   * find sur les collections Menus et Plats
   * Dans users-permissions :
     * connect et register sur la collection Auth
+    
+#### Télécharger le projet et installer les dépendances avec la commande suivante
+```
+> npm install
+```
+
+#### Lancer l'application avec la commande 
+```
+> npx strapi start
+```
